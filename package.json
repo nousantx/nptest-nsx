@@ -1,0 +1,27 @@
+{
+  "name": "nptest-nsx",
+  "version": "1.0.0",
+  "description": "npm test package because i am not sure what i do, www",
+  "main": "dist/js/nt.js",
+  "style": "dist/css/nt.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nousantx/nptest-nsx.git"
+  },
+  "keywords": [
+    "js",
+    "css",
+    "html",
+    "npm",
+    "nodejs"
+  ],
+  "author": "nousantx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nousantx/nptest-nsx/issues"
+  },
+  "homepage": "https://tenoxui.web.app/"
+}
